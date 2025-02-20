@@ -1,0 +1,8 @@
+<odoo>
+    <data>
+        <record id="propiedad_1" model="real.estate">
+            <field name="name">Casa en Carabanchel</field>
+            <field name="price">400000</field>
+        </record>
+    </data>
+</odoo>

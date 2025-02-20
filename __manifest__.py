@@ -6,7 +6,12 @@
     'author': 'Jhonatan Romero',
     'website': 'https://tu-sitio-web.com',
     'depends': ['base'],  # Dependencia del módulo base
-    'data': [],
+    'data': [
+        'security/res_groups.xml'
+    ],
+    'demo':[
+        'demo/demo.xml'
+    ],
     'installable': True,  # Hace que el módulo sea instalable
     'auto_install': False,  # No se instala automáticamente
     'application': True,  # Marca este módulo como una aplicación

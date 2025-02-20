@@ -1,0 +1,5 @@
+<odoo>
+    <record id="estate_manager" model="res_groups">
+        <field name="name">Gestor Propiedad</field>
+    </record>
+</odoo>
