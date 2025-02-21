@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <!-- Menú principal -->
+    <menuitem id="root_level" name="Prueba"/>
+
+    <!-- Submenú bajo Root -->
+    <menuitem id="second_level" name="Estate" parent="root_level"/>
+
+    <!-- Submenú con acción -->
+    <menuitem id="third_level" name="Third" parent="second_level" action="action_real_estate"/>
+</odoo>
+

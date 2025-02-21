@@ -8,7 +8,9 @@
     'depends': ['base'],  # Dependencia del módulo base
     'data': [
         'security/res_groups.xml',
-        'security/ir.model.access.csv'
+        'security/ir.model.access.csv',
+        'views/estate_property_views.xml',
+        'views/estate_menus.xml'
     ],
     'demo':[
         'demo/demo.xml'
