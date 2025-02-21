@@ -5,5 +5,21 @@
             <field name="name">Casa en Carabanchel</field>
             <field name="price">400000</field>
         </record>
+        <record id="propiedad_2" model="real.estate">
+            <field name="name">Casa en Usera</field>
+            <field name="price">300000</field>
+        </record>
+        <record id="propiedad_3" model="real.estate">
+            <field name="name">Chalé en Alcorcon </field>
+            <field name="price">800000</field>
+        </record>
+        <record id="propiedad_4" model="real.estate">
+            <field name="name">Piso en Legazpi</field>
+            <field name="price">600000</field>
+        </record>
+        <record id="propiedad_5" model="real.estate">
+            <field name="name">Piso en La Latina</field>
+            <field name="price">700000</field>
+        </record>
     </data>
 </odoo>
