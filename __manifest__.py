@@ -7,7 +7,8 @@
     'website': 'https://tu-sitio-web.com',
     'depends': ['base'],  # Dependencia del módulo base
     'data': [
-        'security/res_groups.xml'
+        'security/res_groups.xml',
+        'security/ir.model.access.csv'
     ],
     'demo':[
         'demo/demo.xml'

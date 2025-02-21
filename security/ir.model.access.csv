@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink 
+prueba.access_real_estate,access_real_estate,prueba.model_real_estate,base.group_user,1,0,0,0 
+prueba.access_real_estate_manager,access_real_estate_manager,prueba.model_real_estate,prueba.estate_manager,1,1,1,1 
